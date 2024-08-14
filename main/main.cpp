@@ -34,7 +34,7 @@ bool ValidateUserGuess(int guess, int rightResult) {
         return false;
     }
     else {
-        std::cout << "Ein Fehler ist unterlaufen, die Eingabe: '" << input << "' wird nicht erkannt.\nBitte versuche es erneut.\n\n";
+        std::cout << "Ein Fehler ist unterlaufen, die Eingabe: '" << guess << "' wird nicht erkannt.\nBitte versuche es erneut.\n\n";
         return false;
     }
 }
