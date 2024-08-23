@@ -1,1 +1,1 @@
-# Guess ’n' Vad - Das Zahlenratespiel
+# Guess ’n' Vad
